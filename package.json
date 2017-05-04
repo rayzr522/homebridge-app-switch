@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-app-switch",
+  "version": "1.0.0",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=7.9.0",
+    "homebridge": ">=0.4.20"
+  },
+  "description": "Use Homebridge to open and close apps",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/homebridge-app-switch",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "node-osascript": "^2.0.0"
+  },
+  "devDependencies": {}
+}
